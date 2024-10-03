@@ -1,16 +1,8 @@
-# revisao
+# Revisão Sistemas
 
-Sistema solicitado em revisão
+Sistema solicitado em revisão.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Calculadora Básica**: Permite realizar operações matemáticas simples.
+- **Calculadora de Consumo de Combustível**: Insira litros e distância percorrida para calcular a média de consumo (km/L).
